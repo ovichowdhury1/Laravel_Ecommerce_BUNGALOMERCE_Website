@@ -13,4 +13,4 @@ yarn-error.log
 .ftpquota
 .styleci.yml
 README.md
-./git.bash
+git.bash
