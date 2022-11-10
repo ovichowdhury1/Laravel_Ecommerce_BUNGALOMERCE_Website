@@ -1,3 +1,3 @@
 git add .
-git commit -m "git update asifuddoula sakib `date`"
-git push origin master
+git commit -m "git update Ovi Chowdhury `date`"
+git push origin ovichy
